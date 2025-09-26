@@ -1,0 +1,2002 @@
+[
+  {
+    "input": "A box has 9 red, 5 blue, and 5 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 10/171. Final answer: 0.0585."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 160 and 92.",
+    "output": "GCD(160, 92) = 4. Final answer: 4."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 56 and 107.",
+    "output": "GCD(56, 107) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 7x^2 + (14)x + (6) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1 - sqrt(7)/7, -1 + sqrt(7)/7]. Final answer: [-1 - sqrt(7)/7, -1 + sqrt(7)/7]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 133 and 96.",
+    "output": "GCD(133, 96) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (-11)x + (-7) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [11/8 - sqrt(233)/8, 11/8 + sqrt(233)/8]. Final answer: [11/8 - sqrt(233)/8, 11/8 + sqrt(233)/8]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 8 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*8^2 = 64*pi. Circumference = 2*\u03c0*r = 2*\u03c0*8 = 16*pi. Final answer: Area = 64*pi, Circumference = 16*pi."
+  },
+  {
+    "input": "A circle has radius 4 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*4^2 = 16*pi. Circumference = 2*\u03c0*r = 2*\u03c0*4 = 8*pi. Final answer: Area = 16*pi, Circumference = 8*pi."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (18)x + (4) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3 - sqrt(69)/3, -3 + sqrt(69)/3]. Final answer: [-3 - sqrt(69)/3, -3 + sqrt(69)/3]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 191 and 68.",
+    "output": "GCD(191, 68) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 135 and 138.",
+    "output": "GCD(135, 138) = 3. Final answer: 3."
+  },
+  {
+    "input": "A circle has radius 3 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*3^2 = 9*pi. Circumference = 2*\u03c0*r = 2*\u03c0*3 = 6*pi. Final answer: Area = 9*pi, Circumference = 6*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 85 and 50.",
+    "output": "GCD(85, 50) = 5. Final answer: 5."
+  },
+  {
+    "input": "A box has 9 red, 11 blue, and 18 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 55/703. Final answer: 0.0782."
+  },
+  {
+    "input": "A circle has radius 7 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*7^2 = 49*pi. Circumference = 2*\u03c0*r = 2*\u03c0*7 = 14*pi. Final answer: Area = 49*pi, Circumference = 14*pi."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A box has 19 red, 8 blue, and 17 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 14/473. Final answer: 0.0296."
+  },
+  {
+    "input": "A box has 7 red, 18 blue, and 5 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 51/145. Final answer: 0.3517."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 54 and 182.",
+    "output": "GCD(54, 182) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 135 and 164.",
+    "output": "GCD(135, 164) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (11)x + (7) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-11/12 - sqrt(47)*I/12, -11/12 + sqrt(47)*I/12]. Final answer: [-11/12 - sqrt(47)*I/12, -11/12 + sqrt(47)*I/12]."
+  },
+  {
+    "input": "A circle has radius 7 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*7^2 = 49*pi. Circumference = 2*\u03c0*r = 2*\u03c0*7 = 14*pi. Final answer: Area = 49*pi, Circumference = 14*pi."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (19)x + (6) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-6, -1/3]. Final answer: [-6, -1/3]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 175 and 158.",
+    "output": "GCD(175, 158) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "A box has 12 red, 11 blue, and 14 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 55/666. Final answer: 0.0826."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "A circle has radius 4 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*4^2 = 16*pi. Circumference = 2*\u03c0*r = 2*\u03c0*4 = 8*pi. Final answer: Area = 16*pi, Circumference = 8*pi."
+  },
+  {
+    "input": "A box has 11 red, 16 blue, and 9 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 4/21. Final answer: 0.1905."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "A box has 13 red, 14 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 91/1035. Final answer: 0.0879."
+  },
+  {
+    "input": "Solve for x: 7x^2 + (-3)x + (-12) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [3/14 - sqrt(345)/14, 3/14 + sqrt(345)/14]. Final answer: [3/14 - sqrt(345)/14, 3/14 + sqrt(345)/14]."
+  },
+  {
+    "input": "Solve for x: 2x^2 + (11)x + (-11) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-11/4 + sqrt(209)/4, -sqrt(209)/4 - 11/4]. Final answer: [-11/4 + sqrt(209)/4, -sqrt(209)/4 - 11/4]."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (1)x + (-3) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1/10 + sqrt(61)/10, -sqrt(61)/10 - 1/10]. Final answer: [-1/10 + sqrt(61)/10, -sqrt(61)/10 - 1/10]."
+  },
+  {
+    "input": "A box has 7 red, 11 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 55/666. Final answer: 0.0826."
+  },
+  {
+    "input": "A circle has radius 9 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*9^2 = 81*pi. Circumference = 2*\u03c0*r = 2*\u03c0*9 = 18*pi. Final answer: Area = 81*pi, Circumference = 18*pi."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (-20)x + (-14) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [2 - sqrt(170)/5, 2 + sqrt(170)/5]. Final answer: [2 - sqrt(170)/5, 2 + sqrt(170)/5]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 53 and 158.",
+    "output": "GCD(53, 158) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 104 and 140.",
+    "output": "GCD(104, 140) = 4. Final answer: 4."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 152 and 86.",
+    "output": "GCD(152, 86) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "A circle has radius 9 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*9^2 = 81*pi. Circumference = 2*\u03c0*r = 2*\u03c0*9 = 18*pi. Final answer: Area = 81*pi, Circumference = 18*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 108 and 162.",
+    "output": "GCD(108, 162) = 54. Final answer: 54."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (16)x + (0) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-16/5, 0]. Final answer: [-16/5, 0]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "A box has 15 red, 13 blue, and 15 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 26/301. Final answer: 0.0864."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 188 and 191.",
+    "output": "GCD(188, 191) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 173 and 69.",
+    "output": "GCD(173, 69) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 144 and 159.",
+    "output": "GCD(144, 159) = 3. Final answer: 3."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (2)x + (-3) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1/6 + sqrt(19)/6, -sqrt(19)/6 - 1/6]. Final answer: [-1/6 + sqrt(19)/6, -sqrt(19)/6 - 1/6]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A box has 15 red, 18 blue, and 12 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 17/110. Final answer: 0.1545."
+  },
+  {
+    "input": "A box has 5 red, 10 blue, and 15 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 3/29. Final answer: 0.1034."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A box has 18 red, 9 blue, and 7 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 12/187. Final answer: 0.0642."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 140 and 129.",
+    "output": "GCD(140, 129) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 7 red, 19 blue, and 12 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 9/37. Final answer: 0.2432."
+  },
+  {
+    "input": "A box has 13 red, 6 blue, and 10 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 15/406. Final answer: 0.0369."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 74 and 200.",
+    "output": "GCD(74, 200) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 134 and 155.",
+    "output": "GCD(134, 155) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A box has 19 red, 18 blue, and 11 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 51/376. Final answer: 0.1356."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "A circle has radius 3 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*3^2 = 9*pi. Circumference = 2*\u03c0*r = 2*\u03c0*3 = 6*pi. Final answer: Area = 9*pi, Circumference = 6*pi."
+  },
+  {
+    "input": "A circle has radius 3 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*3^2 = 9*pi. Circumference = 2*\u03c0*r = 2*\u03c0*3 = 6*pi. Final answer: Area = 9*pi, Circumference = 6*pi."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (14)x + (-5) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-5, 1/3]. Final answer: [-5, 1/3]."
+  },
+  {
+    "input": "A circle has radius 5 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*5^2 = 25*pi. Circumference = 2*\u03c0*r = 2*\u03c0*5 = 10*pi. Final answer: Area = 25*pi, Circumference = 10*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 149 and 91.",
+    "output": "GCD(149, 91) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 5 red, 8 blue, and 20 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 7/132. Final answer: 0.0530."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "A circle has radius 14 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*14^2 = 196*pi. Circumference = 2*\u03c0*r = 2*\u03c0*14 = 28*pi. Final answer: Area = 196*pi, Circumference = 28*pi."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (12)x + (-14) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-6/5 + sqrt(106)/5, -sqrt(106)/5 - 6/5]. Final answer: [-6/5 + sqrt(106)/5, -sqrt(106)/5 - 6/5]."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "A circle has radius 13 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*13^2 = 169*pi. Circumference = 2*\u03c0*r = 2*\u03c0*13 = 26*pi. Final answer: Area = 169*pi, Circumference = 26*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (10)x + (-13) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-5 + sqrt(38), -sqrt(38) - 5]. Final answer: [-5 + sqrt(38), -sqrt(38) - 5]."
+  },
+  {
+    "input": "A box has 19 red, 13 blue, and 6 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 78/703. Final answer: 0.1110."
+  },
+  {
+    "input": "A box has 10 red, 16 blue, and 20 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 8/69. Final answer: 0.1159."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "A box has 19 red, 12 blue, and 14 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 1/15. Final answer: 0.0667."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A circle has radius 14 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*14^2 = 196*pi. Circumference = 2*\u03c0*r = 2*\u03c0*14 = 28*pi. Final answer: Area = 196*pi, Circumference = 28*pi."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (-1)x + (-9) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-9/10, 1]. Final answer: [-9/10, 1]."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (-11)x + (-7) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [11/2 - sqrt(149)/2, 11/2 + sqrt(149)/2]. Final answer: [11/2 - sqrt(149)/2, 11/2 + sqrt(149)/2]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 77 and 166.",
+    "output": "GCD(77, 166) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (-15)x + (-11) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [15/8 - sqrt(401)/8, 15/8 + sqrt(401)/8]. Final answer: [15/8 - sqrt(401)/8, 15/8 + sqrt(401)/8]."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (3)x + (-17) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1/4 + sqrt(417)/12, -sqrt(417)/12 - 1/4]. Final answer: [-1/4 + sqrt(417)/12, -sqrt(417)/12 - 1/4]."
+  },
+  {
+    "input": "A circle has radius 11 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*11^2 = 121*pi. Circumference = 2*\u03c0*r = 2*\u03c0*11 = 22*pi. Final answer: Area = 121*pi, Circumference = 22*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 143 and 158.",
+    "output": "GCD(143, 158) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 8 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*8^2 = 64*pi. Circumference = 2*\u03c0*r = 2*\u03c0*8 = 16*pi. Final answer: Area = 64*pi, Circumference = 16*pi."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (15)x + (-13) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3/4 + sqrt(745)/20, -sqrt(745)/20 - 3/4]. Final answer: [-3/4 + sqrt(745)/20, -sqrt(745)/20 - 3/4]."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (-10)x + (-8) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [5/6 - sqrt(73)/6, 5/6 + sqrt(73)/6]. Final answer: [5/6 - sqrt(73)/6, 5/6 + sqrt(73)/6]."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (-5)x + (20) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1/4 - sqrt(31)*I/4, 1/4 + sqrt(31)*I/4]. Final answer: [1/4 - sqrt(31)*I/4, 1/4 + sqrt(31)*I/4]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 109 and 116.",
+    "output": "GCD(109, 116) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 2x^2 + (2)x + (-13) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1/2 + 3*sqrt(3)/2, -3*sqrt(3)/2 - 1/2]. Final answer: [-1/2 + 3*sqrt(3)/2, -3*sqrt(3)/2 - 1/2]."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (-12)x + (-8) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [6 - 2*sqrt(11), 6 + 2*sqrt(11)]. Final answer: [6 - 2*sqrt(11), 6 + 2*sqrt(11)]."
+  },
+  {
+    "input": "A box has 10 red, 10 blue, and 18 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 45/703. Final answer: 0.0640."
+  },
+  {
+    "input": "A circle has radius 13 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*13^2 = 169*pi. Circumference = 2*\u03c0*r = 2*\u03c0*13 = 26*pi. Final answer: Area = 169*pi, Circumference = 26*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A box has 19 red, 6 blue, and 9 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/187. Final answer: 0.0267."
+  },
+  {
+    "input": "A box has 17 red, 9 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 2/55. Final answer: 0.0364."
+  },
+  {
+    "input": "A box has 6 red, 11 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 11/126. Final answer: 0.0873."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A circle has radius 14 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*14^2 = 196*pi. Circumference = 2*\u03c0*r = 2*\u03c0*14 = 28*pi. Final answer: Area = 196*pi, Circumference = 28*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 199 and 133.",
+    "output": "GCD(199, 133) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 117 and 70.",
+    "output": "GCD(117, 70) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 4 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*4^2 = 16*pi. Circumference = 2*\u03c0*r = 2*\u03c0*4 = 8*pi. Final answer: Area = 16*pi, Circumference = 8*pi."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (0)x + (-18) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-sqrt(2), sqrt(2)]. Final answer: [-sqrt(2), sqrt(2)]."
+  },
+  {
+    "input": "A box has 15 red, 20 blue, and 9 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 95/473. Final answer: 0.2008."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (14)x + (-13) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-7/9 + sqrt(166)/9, -sqrt(166)/9 - 7/9]. Final answer: [-7/9 + sqrt(166)/9, -sqrt(166)/9 - 7/9]."
+  },
+  {
+    "input": "A box has 6 red, 10 blue, and 14 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 3/29. Final answer: 0.1034."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 54 and 165.",
+    "output": "GCD(54, 165) = 3. Final answer: 3."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 141 and 124.",
+    "output": "GCD(141, 124) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (8)x + (-7) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-4 + sqrt(23), -sqrt(23) - 4]. Final answer: [-4 + sqrt(23), -sqrt(23) - 4]."
+  },
+  {
+    "input": "A circle has radius 11 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*11^2 = 121*pi. Circumference = 2*\u03c0*r = 2*\u03c0*11 = 22*pi. Final answer: Area = 121*pi, Circumference = 22*pi."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (-8)x + (4) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [4 - 2*sqrt(3), 2*sqrt(3) + 4]. Final answer: [4 - 2*sqrt(3), 2*sqrt(3) + 4]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 8 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*8^2 = 64*pi. Circumference = 2*\u03c0*r = 2*\u03c0*8 = 16*pi. Final answer: Area = 64*pi, Circumference = 16*pi."
+  },
+  {
+    "input": "A box has 18 red, 7 blue, and 6 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 7/155. Final answer: 0.0452."
+  },
+  {
+    "input": "A circle has radius 5 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*5^2 = 25*pi. Circumference = 2*\u03c0*r = 2*\u03c0*5 = 10*pi. Final answer: Area = 25*pi, Circumference = 10*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 165 and 53.",
+    "output": "GCD(165, 53) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 149 and 86.",
+    "output": "GCD(149, 86) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 16 red, 17 blue, and 15 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 17/141. Final answer: 0.1206."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 152 and 81.",
+    "output": "GCD(152, 81) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (19)x + (13) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-19/2 - sqrt(309)/2, -19/2 + sqrt(309)/2]. Final answer: [-19/2 - sqrt(309)/2, -19/2 + sqrt(309)/2]."
+  },
+  {
+    "input": "A box has 19 red, 20 blue, and 7 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 38/207. Final answer: 0.1836."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (12)x + (18) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1 - sqrt(2)*I, -1 + sqrt(2)*I]. Final answer: [-1 - sqrt(2)*I, -1 + sqrt(2)*I]."
+  },
+  {
+    "input": "A circle has radius 7 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*7^2 = 49*pi. Circumference = 2*\u03c0*r = 2*\u03c0*7 = 14*pi. Final answer: Area = 49*pi, Circumference = 14*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A circle has radius 11 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*11^2 = 121*pi. Circumference = 2*\u03c0*r = 2*\u03c0*11 = 22*pi. Final answer: Area = 121*pi, Circumference = 22*pi."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (-17)x + (5) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [17/18 - sqrt(109)/18, sqrt(109)/18 + 17/18]. Final answer: [17/18 - sqrt(109)/18, sqrt(109)/18 + 17/18]."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "A circle has radius 11 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*11^2 = 121*pi. Circumference = 2*\u03c0*r = 2*\u03c0*11 = 22*pi. Final answer: Area = 121*pi, Circumference = 22*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Solve for x: 8x^2 + (-7)x + (5) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [7/16 - sqrt(111)*I/16, 7/16 + sqrt(111)*I/16]. Final answer: [7/16 - sqrt(111)*I/16, 7/16 + sqrt(111)*I/16]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (14)x + (15) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-7/4 - sqrt(11)*I/4, -7/4 + sqrt(11)*I/4]. Final answer: [-7/4 - sqrt(11)*I/4, -7/4 + sqrt(11)*I/4]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 2x^2 + (-11)x + (-14) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [11/4 - sqrt(233)/4, 11/4 + sqrt(233)/4]. Final answer: [11/4 - sqrt(233)/4, 11/4 + sqrt(233)/4]."
+  },
+  {
+    "input": "A box has 8 red, 12 blue, and 11 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 22/155. Final answer: 0.1419."
+  },
+  {
+    "input": "Solve for x: 2x^2 + (6)x + (6) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3/2 - sqrt(3)*I/2, -3/2 + sqrt(3)*I/2]. Final answer: [-3/2 - sqrt(3)*I/2, -3/2 + sqrt(3)*I/2]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (6)x + (2) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3/10 - sqrt(11)*I/10, -3/10 + sqrt(11)*I/10]. Final answer: [-3/10 - sqrt(11)*I/10, -3/10 + sqrt(11)*I/10]."
+  },
+  {
+    "input": "A box has 10 red, 16 blue, and 18 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 60/473. Final answer: 0.1268."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A circle has radius 3 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*3^2 = 9*pi. Circumference = 2*\u03c0*r = 2*\u03c0*3 = 6*pi. Final answer: Area = 9*pi, Circumference = 6*pi."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "A box has 17 red, 16 blue, and 9 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 40/287. Final answer: 0.1394."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Solve for x: 7x^2 + (8)x + (4) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-4/7 - 2*sqrt(3)*I/7, -4/7 + 2*sqrt(3)*I/7]. Final answer: [-4/7 - 2*sqrt(3)*I/7, -4/7 + 2*sqrt(3)*I/7]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 147 and 175.",
+    "output": "GCD(147, 175) = 7. Final answer: 7."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (6)x + (14) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3/4 - sqrt(47)*I/4, -3/4 + sqrt(47)*I/4]. Final answer: [-3/4 - sqrt(47)*I/4, -3/4 + sqrt(47)*I/4]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A circle has radius 11 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*11^2 = 121*pi. Circumference = 2*\u03c0*r = 2*\u03c0*11 = 22*pi. Final answer: Area = 121*pi, Circumference = 22*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A circle has radius 5 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*5^2 = 25*pi. Circumference = 2*\u03c0*r = 2*\u03c0*5 = 10*pi. Final answer: Area = 25*pi, Circumference = 10*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 131 and 76.",
+    "output": "GCD(131, 76) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (7)x + (-2) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-7/10 + sqrt(89)/10, -sqrt(89)/10 - 7/10]. Final answer: [-7/10 + sqrt(89)/10, -sqrt(89)/10 - 7/10]."
+  },
+  {
+    "input": "A box has 19 red, 7 blue, and 7 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 7/176. Final answer: 0.0398."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 176 and 63.",
+    "output": "GCD(176, 63) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (6)x + (16) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3/4 - sqrt(55)*I/4, -3/4 + sqrt(55)*I/4]. Final answer: [-3/4 - sqrt(55)*I/4, -3/4 + sqrt(55)*I/4]."
+  },
+  {
+    "input": "A circle has radius 2 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*2^2 = 4*pi. Circumference = 2*\u03c0*r = 2*\u03c0*2 = 4*pi. Final answer: Area = 4*pi, Circumference = 4*pi."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (-10)x + (19) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [5/6 - sqrt(89)*I/6, 5/6 + sqrt(89)*I/6]. Final answer: [5/6 - sqrt(89)*I/6, 5/6 + sqrt(89)*I/6]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 172 and 85.",
+    "output": "GCD(172, 85) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 2x^2 + (-11)x + (-9) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [11/4 - sqrt(193)/4, 11/4 + sqrt(193)/4]. Final answer: [11/4 - sqrt(193)/4, 11/4 + sqrt(193)/4]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 89 and 184.",
+    "output": "GCD(89, 184) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 52 and 184.",
+    "output": "GCD(52, 184) = 4. Final answer: 4."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (-19)x + (7) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [19/2 - 3*sqrt(37)/2, 3*sqrt(37)/2 + 19/2]. Final answer: [19/2 - 3*sqrt(37)/2, 3*sqrt(37)/2 + 19/2]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 139 and 123.",
+    "output": "GCD(139, 123) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 9 red, 20 blue, and 20 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 95/588. Final answer: 0.1616."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 7x^2 + (-19)x + (-2) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [19/14 - sqrt(417)/14, 19/14 + sqrt(417)/14]. Final answer: [19/14 - sqrt(417)/14, 19/14 + sqrt(417)/14]."
+  },
+  {
+    "input": "A box has 17 red, 8 blue, and 18 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 4/129. Final answer: 0.0310."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A box has 16 red, 15 blue, and 14 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 7/66. Final answer: 0.1061."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 166 and 165.",
+    "output": "GCD(166, 165) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (-14)x + (1) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [7/9 - 2*sqrt(10)/9, 2*sqrt(10)/9 + 7/9]. Final answer: [7/9 - 2*sqrt(10)/9, 2*sqrt(10)/9 + 7/9]."
+  },
+  {
+    "input": "A box has 13 red, 17 blue, and 15 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 68/495. Final answer: 0.1374."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (5)x + (-11) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-5/18 + sqrt(421)/18, -sqrt(421)/18 - 5/18]. Final answer: [-5/18 + sqrt(421)/18, -sqrt(421)/18 - 5/18]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 182 and 77.",
+    "output": "GCD(182, 77) = 7. Final answer: 7."
+  },
+  {
+    "input": "A circle has radius 5 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*5^2 = 25*pi. Circumference = 2*\u03c0*r = 2*\u03c0*5 = 10*pi. Final answer: Area = 25*pi, Circumference = 10*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (-12)x + (-6) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1 - sqrt(2), 1 + sqrt(2)]. Final answer: [1 - sqrt(2), 1 + sqrt(2)]."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (19)x + (13) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-13/6, -1]. Final answer: [-13/6, -1]."
+  },
+  {
+    "input": "A circle has radius 8 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*8^2 = 64*pi. Circumference = 2*\u03c0*r = 2*\u03c0*8 = 16*pi. Final answer: Area = 64*pi, Circumference = 16*pi."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (3)x + (0) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3/10, 0]. Final answer: [-3/10, 0]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 168 and 118.",
+    "output": "GCD(168, 118) = 2. Final answer: 2."
+  },
+  {
+    "input": "A box has 9 red, 20 blue, and 10 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 10/39. Final answer: 0.2564."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 66 and 122.",
+    "output": "GCD(66, 122) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 121 and 176.",
+    "output": "GCD(121, 176) = 11. Final answer: 11."
+  },
+  {
+    "input": "A circle has radius 9 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*9^2 = 81*pi. Circumference = 2*\u03c0*r = 2*\u03c0*9 = 18*pi. Final answer: Area = 81*pi, Circumference = 18*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 126 and 50.",
+    "output": "GCD(126, 50) = 2. Final answer: 2."
+  },
+  {
+    "input": "A box has 20 red, 20 blue, and 8 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 95/564. Final answer: 0.1684."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 52 and 139.",
+    "output": "GCD(52, 139) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 9 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*9^2 = 81*pi. Circumference = 2*\u03c0*r = 2*\u03c0*9 = 18*pi. Final answer: Area = 81*pi, Circumference = 18*pi."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 164 and 198.",
+    "output": "GCD(164, 198) = 2. Final answer: 2."
+  },
+  {
+    "input": "A box has 15 red, 15 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/56. Final answer: 0.0893."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 118 and 80.",
+    "output": "GCD(118, 80) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A box has 10 red, 6 blue, and 11 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/117. Final answer: 0.0427."
+  },
+  {
+    "input": "A box has 17 red, 7 blue, and 7 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 7/155. Final answer: 0.0452."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (-18)x + (-19) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [3 - sqrt(138)/3, 3 + sqrt(138)/3]. Final answer: [3 - sqrt(138)/3, 3 + sqrt(138)/3]."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (-17)x + (-2) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [17/20 - 3*sqrt(41)/20, 17/20 + 3*sqrt(41)/20]. Final answer: [17/20 - 3*sqrt(41)/20, 17/20 + 3*sqrt(41)/20]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 148 and 182.",
+    "output": "GCD(148, 182) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 94 and 96.",
+    "output": "GCD(94, 96) = 2. Final answer: 2."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (20)x + (-3) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-5/2 + sqrt(7), -sqrt(7) - 5/2]. Final answer: [-5/2 + sqrt(7), -sqrt(7) - 5/2]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 105 and 78.",
+    "output": "GCD(105, 78) = 3. Final answer: 3."
+  },
+  {
+    "input": "A box has 19 red, 19 blue, and 10 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 57/376. Final answer: 0.1516."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 163 and 177.",
+    "output": "GCD(163, 177) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 9 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*9^2 = 81*pi. Circumference = 2*\u03c0*r = 2*\u03c0*9 = 18*pi. Final answer: Area = 81*pi, Circumference = 18*pi."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 84 and 169.",
+    "output": "GCD(84, 169) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 171 and 154.",
+    "output": "GCD(171, 154) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 91 and 87.",
+    "output": "GCD(91, 87) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (12)x + (-17) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-6 + sqrt(53), -sqrt(53) - 6]. Final answer: [-6 + sqrt(53), -sqrt(53) - 6]."
+  },
+  {
+    "input": "A box has 16 red, 6 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 3/164. Final answer: 0.0183."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "A box has 17 red, 13 blue, and 8 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 78/703. Final answer: 0.1110."
+  },
+  {
+    "input": "A circle has radius 11 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*11^2 = 121*pi. Circumference = 2*\u03c0*r = 2*\u03c0*11 = 22*pi. Final answer: Area = 121*pi, Circumference = 22*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 91 and 190.",
+    "output": "GCD(91, 190) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 85 and 197.",
+    "output": "GCD(85, 197) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 66 and 106.",
+    "output": "GCD(66, 106) = 2. Final answer: 2."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (15)x + (2) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-5/6 - sqrt(17)/6, -5/6 + sqrt(17)/6]. Final answer: [-5/6 - sqrt(17)/6, -5/6 + sqrt(17)/6]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 106 and 120.",
+    "output": "GCD(106, 120) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A box has 13 red, 10 blue, and 9 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 45/496. Final answer: 0.0907."
+  },
+  {
+    "input": "A box has 15 red, 6 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 1/52. Final answer: 0.0192."
+  },
+  {
+    "input": "A box has 5 red, 11 blue, and 18 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/51. Final answer: 0.0980."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 74 and 78.",
+    "output": "GCD(74, 78) = 2. Final answer: 2."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 129 and 115.",
+    "output": "GCD(129, 115) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 88 and 78.",
+    "output": "GCD(88, 78) = 2. Final answer: 2."
+  },
+  {
+    "input": "A box has 14 red, 13 blue, and 13 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 1/10. Final answer: 0.1000."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 154 and 76.",
+    "output": "GCD(154, 76) = 2. Final answer: 2."
+  },
+  {
+    "input": "A box has 5 red, 13 blue, and 14 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 39/248. Final answer: 0.1573."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 92 and 135.",
+    "output": "GCD(92, 135) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (-12)x + (18) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1 - sqrt(2)*I, 1 + sqrt(2)*I]. Final answer: [1 - sqrt(2)*I, 1 + sqrt(2)*I]."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 146 and 144.",
+    "output": "GCD(146, 144) = 2. Final answer: 2."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (-15)x + (-19) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [5/2 - sqrt(453)/6, 5/2 + sqrt(453)/6]. Final answer: [5/2 - sqrt(453)/6, 5/2 + sqrt(453)/6]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 142 and 122.",
+    "output": "GCD(142, 122) = 2. Final answer: 2."
+  },
+  {
+    "input": "A box has 6 red, 6 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 1/31. Final answer: 0.0323."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 137 and 195.",
+    "output": "GCD(137, 195) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (-14)x + (5) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [7/5 - 2*sqrt(6)/5, 2*sqrt(6)/5 + 7/5]. Final answer: [7/5 - 2*sqrt(6)/5, 2*sqrt(6)/5 + 7/5]."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (7)x + (14) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-7/18 - sqrt(455)*I/18, -7/18 + sqrt(455)*I/18]. Final answer: [-7/18 - sqrt(455)*I/18, -7/18 + sqrt(455)*I/18]."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (-18)x + (5) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [9/5 - 2*sqrt(14)/5, 2*sqrt(14)/5 + 9/5]. Final answer: [9/5 - 2*sqrt(14)/5, 2*sqrt(14)/5 + 9/5]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 7 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*7^2 = 49*pi. Circumference = 2*\u03c0*r = 2*\u03c0*7 = 14*pi. Final answer: Area = 49*pi, Circumference = 14*pi."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (-10)x + (9) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1 - 2*sqrt(5)*I/5, 1 + 2*sqrt(5)*I/5]. Final answer: [1 - 2*sqrt(5)*I/5, 1 + 2*sqrt(5)*I/5]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 52 and 133.",
+    "output": "GCD(52, 133) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (8)x + (19) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1 - sqrt(15)*I/2, -1 + sqrt(15)*I/2]. Final answer: [-1 - sqrt(15)*I/2, -1 + sqrt(15)*I/2]."
+  },
+  {
+    "input": "Solve for x: 7x^2 + (18)x + (0) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-18/7, 0]. Final answer: [-18/7, 0]."
+  },
+  {
+    "input": "A box has 15 red, 18 blue, and 15 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 51/376. Final answer: 0.1356."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A box has 9 red, 10 blue, and 9 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/42. Final answer: 0.1190."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 108 and 86.",
+    "output": "GCD(108, 86) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 50 and 124.",
+    "output": "GCD(50, 124) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 63 and 66.",
+    "output": "GCD(63, 66) = 3. Final answer: 3."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 173 and 181.",
+    "output": "GCD(173, 181) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "A circle has radius 4 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*4^2 = 16*pi. Circumference = 2*\u03c0*r = 2*\u03c0*4 = 8*pi. Final answer: Area = 16*pi, Circumference = 8*pi."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "A box has 7 red, 12 blue, and 8 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 22/117. Final answer: 0.1880."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (1)x + (-12) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1/6 + sqrt(145)/6, -sqrt(145)/6 - 1/6]. Final answer: [-1/6 + sqrt(145)/6, -sqrt(145)/6 - 1/6]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 163 and 102.",
+    "output": "GCD(163, 102) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 8 red, 13 blue, and 18 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 2/19. Final answer: 0.1053."
+  },
+  {
+    "input": "A box has 12 red, 14 blue, and 17 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 13/129. Final answer: 0.1008."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 92 and 115.",
+    "output": "GCD(92, 115) = 23. Final answer: 23."
+  },
+  {
+    "input": "Solve for x: 2x^2 + (2)x + (8) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1/2 - sqrt(15)*I/2, -1/2 + sqrt(15)*I/2]. Final answer: [-1/2 - sqrt(15)*I/2, -1/2 + sqrt(15)*I/2]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 114 and 159.",
+    "output": "GCD(114, 159) = 3. Final answer: 3."
+  },
+  {
+    "input": "A box has 11 red, 17 blue, and 11 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 136/741. Final answer: 0.1835."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "A circle has radius 8 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*8^2 = 64*pi. Circumference = 2*\u03c0*r = 2*\u03c0*8 = 16*pi. Final answer: Area = 64*pi, Circumference = 16*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 100 and 88.",
+    "output": "GCD(100, 88) = 4. Final answer: 4."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A box has 19 red, 11 blue, and 8 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 55/703. Final answer: 0.0782."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 77 and 157.",
+    "output": "GCD(77, 157) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 52 and 172.",
+    "output": "GCD(52, 172) = 4. Final answer: 4."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 114 and 148.",
+    "output": "GCD(114, 148) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 50 and 79.",
+    "output": "GCD(50, 79) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 142 and 86.",
+    "output": "GCD(142, 86) = 2. Final answer: 2."
+  },
+  {
+    "input": "A box has 16 red, 9 blue, and 7 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 9/124. Final answer: 0.0726."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 78 and 85.",
+    "output": "GCD(78, 85) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 72 and 89.",
+    "output": "GCD(72, 89) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (-17)x + (-5) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [17/20 - sqrt(489)/20, 17/20 + sqrt(489)/20]. Final answer: [17/20 - sqrt(489)/20, 17/20 + sqrt(489)/20]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (-19)x + (13) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [19/20 - sqrt(159)*I/20, 19/20 + sqrt(159)*I/20]. Final answer: [19/20 - sqrt(159)*I/20, 19/20 + sqrt(159)*I/20]."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (-2)x + (15) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1/9 - sqrt(134)*I/9, 1/9 + sqrt(134)*I/9]. Final answer: [1/9 - sqrt(134)*I/9, 1/9 + sqrt(134)*I/9]."
+  },
+  {
+    "input": "A circle has radius 13 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*13^2 = 169*pi. Circumference = 2*\u03c0*r = 2*\u03c0*13 = 26*pi. Final answer: Area = 169*pi, Circumference = 26*pi."
+  },
+  {
+    "input": "A box has 19 red, 20 blue, and 18 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/42. Final answer: 0.1190."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (-1)x + (-8) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1/10 - sqrt(161)/10, 1/10 + sqrt(161)/10]. Final answer: [1/10 - sqrt(161)/10, 1/10 + sqrt(161)/10]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 147 and 168.",
+    "output": "GCD(147, 168) = 21. Final answer: 21."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 94 and 85.",
+    "output": "GCD(94, 85) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (9)x + (-3) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-9/10 + sqrt(141)/10, -sqrt(141)/10 - 9/10]. Final answer: [-9/10 + sqrt(141)/10, -sqrt(141)/10 - 9/10]."
+  },
+  {
+    "input": "Solve for x: 10x^2 + (19)x + (19) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-19/20 - sqrt(399)*I/20, -19/20 + sqrt(399)*I/20]. Final answer: [-19/20 - sqrt(399)*I/20, -19/20 + sqrt(399)*I/20]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "A circle has radius 9 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*9^2 = 81*pi. Circumference = 2*\u03c0*r = 2*\u03c0*9 = 18*pi. Final answer: Area = 81*pi, Circumference = 18*pi."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "A circle has radius 15 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*15^2 = 225*pi. Circumference = 2*\u03c0*r = 2*\u03c0*15 = 30*pi. Final answer: Area = 225*pi, Circumference = 30*pi."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (-17)x + (15) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [17/6 - sqrt(109)/6, sqrt(109)/6 + 17/6]. Final answer: [17/6 - sqrt(109)/6, sqrt(109)/6 + 17/6]."
+  },
+  {
+    "input": "A circle has radius 13 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*13^2 = 169*pi. Circumference = 2*\u03c0*r = 2*\u03c0*13 = 26*pi. Final answer: Area = 169*pi, Circumference = 26*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 61 and 163.",
+    "output": "GCD(61, 163) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 12 red, 16 blue, and 13 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 6/41. Final answer: 0.1463."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 174 and 99.",
+    "output": "GCD(174, 99) = 3. Final answer: 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Solve for x: 8x^2 + (-16)x + (-3) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1 - sqrt(22)/4, 1 + sqrt(22)/4]. Final answer: [1 - sqrt(22)/4, 1 + sqrt(22)/4]."
+  },
+  {
+    "input": "A circle has radius 9 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*9^2 = 81*pi. Circumference = 2*\u03c0*r = 2*\u03c0*9 = 18*pi. Final answer: Area = 81*pi, Circumference = 18*pi."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (-12)x + (-15) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1 - sqrt(14)/2, 1 + sqrt(14)/2]. Final answer: [1 - sqrt(14)/2, 1 + sqrt(14)/2]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 147 and 138.",
+    "output": "GCD(147, 138) = 3. Final answer: 3."
+  },
+  {
+    "input": "A circle has radius 13 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*13^2 = 169*pi. Circumference = 2*\u03c0*r = 2*\u03c0*13 = 26*pi. Final answer: Area = 169*pi, Circumference = 26*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 8x^2 + (-12)x + (-11) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [3/4 - sqrt(31)/4, 3/4 + sqrt(31)/4]. Final answer: [3/4 - sqrt(31)/4, 3/4 + sqrt(31)/4]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A box has 10 red, 15 blue, and 9 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 35/187. Final answer: 0.1872."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A circle has radius 8 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*8^2 = 64*pi. Circumference = 2*\u03c0*r = 2*\u03c0*8 = 16*pi. Final answer: Area = 64*pi, Circumference = 16*pi."
+  },
+  {
+    "input": "A circle has radius 13 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*13^2 = 169*pi. Circumference = 2*\u03c0*r = 2*\u03c0*13 = 26*pi. Final answer: Area = 169*pi, Circumference = 26*pi."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (1)x + (-12) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1/6 + sqrt(145)/6, -sqrt(145)/6 - 1/6]. Final answer: [-1/6 + sqrt(145)/6, -sqrt(145)/6 - 1/6]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 74 and 171.",
+    "output": "GCD(74, 171) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 13 red, 18 blue, and 6 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 17/74. Final answer: 0.2297."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (0)x + (11) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-sqrt(11)*I/2, sqrt(11)*I/2]. Final answer: [-sqrt(11)*I/2, sqrt(11)*I/2]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 88 and 112.",
+    "output": "GCD(88, 112) = 8. Final answer: 8."
+  },
+  {
+    "input": "A box has 10 red, 20 blue, and 7 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 95/333. Final answer: 0.2853."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 51 and 146.",
+    "output": "GCD(51, 146) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 199 and 59.",
+    "output": "GCD(199, 59) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 4 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*4^2 = 16*pi. Circumference = 2*\u03c0*r = 2*\u03c0*4 = 8*pi. Final answer: Area = 16*pi, Circumference = 8*pi."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 196 and 80.",
+    "output": "GCD(196, 80) = 4. Final answer: 4."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (-4)x + (-11) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1/2 - sqrt(3), 1/2 + sqrt(3)]. Final answer: [1/2 - sqrt(3), 1/2 + sqrt(3)]."
+  },
+  {
+    "input": "A box has 17 red, 9 blue, and 6 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 9/124. Final answer: 0.0726."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 99 and 69.",
+    "output": "GCD(99, 69) = 3. Final answer: 3."
+  },
+  {
+    "input": "A box has 7 red, 13 blue, and 13 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 13/88. Final answer: 0.1477."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 183 and 83.",
+    "output": "GCD(183, 83) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "A box has 13 red, 13 blue, and 7 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 13/88. Final answer: 0.1477."
+  },
+  {
+    "input": "A box has 15 red, 19 blue, and 17 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 57/425. Final answer: 0.1341."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 156 and 152.",
+    "output": "GCD(156, 152) = 4. Final answer: 4."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (14)x + (-10) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-7/4 + sqrt(89)/4, -sqrt(89)/4 - 7/4]. Final answer: [-7/4 + sqrt(89)/4, -sqrt(89)/4 - 7/4]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 87 and 178.",
+    "output": "GCD(87, 178) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "A box has 19 red, 20 blue, and 16 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 38/297. Final answer: 0.1279."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "Solve for x: 7x^2 + (-1)x + (-16) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1/14 - sqrt(449)/14, 1/14 + sqrt(449)/14]. Final answer: [1/14 - sqrt(449)/14, 1/14 + sqrt(449)/14]."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (-3)x + (8) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1/2 - sqrt(87)*I/6, 1/2 + sqrt(87)*I/6]. Final answer: [1/2 - sqrt(87)*I/6, 1/2 + sqrt(87)*I/6]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "A box has 11 red, 5 blue, and 17 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/264. Final answer: 0.0189."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "A box has 10 red, 20 blue, and 10 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 19/78. Final answer: 0.2436."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "A circle has radius 1 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*1^2 = pi. Circumference = 2*\u03c0*r = 2*\u03c0*1 = 2*pi. Final answer: Area = pi, Circumference = 2*pi."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "A box has 5 red, 15 blue, and 17 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 35/222. Final answer: 0.1577."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "A box has 12 red, 8 blue, and 15 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 4/85. Final answer: 0.0471."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "A circle has radius 7 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*7^2 = 49*pi. Circumference = 2*\u03c0*r = 2*\u03c0*7 = 14*pi. Final answer: Area = 49*pi, Circumference = 14*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 67 and 130.",
+    "output": "GCD(67, 130) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 122 and 138.",
+    "output": "GCD(122, 138) = 2. Final answer: 2."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A circle has radius 2 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*2^2 = 4*pi. Circumference = 2*\u03c0*r = 2*\u03c0*2 = 4*pi. Final answer: Area = 4*pi, Circumference = 4*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 173 and 80.",
+    "output": "GCD(173, 80) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 17 red, 10 blue, and 12 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 15/247. Final answer: 0.0607."
+  },
+  {
+    "input": "A box has 14 red, 19 blue, and 10 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 57/301. Final answer: 0.1894."
+  },
+  {
+    "input": "A circle has radius 2 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*2^2 = 4*pi. Circumference = 2*\u03c0*r = 2*\u03c0*2 = 4*pi. Final answer: Area = 4*pi, Circumference = 4*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^2 + 2*x.",
+    "output": "Derivative f'(x) = 2*x + 2. Final answer: 2*x + 2."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 102 and 81.",
+    "output": "GCD(102, 81) = 3. Final answer: 3."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (0)x + (7) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-sqrt(21)*I/3, sqrt(21)*I/3]. Final answer: [-sqrt(21)*I/3, sqrt(21)*I/3]."
+  },
+  {
+    "input": "A box has 13 red, 15 blue, and 6 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 35/187. Final answer: 0.1872."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 177 and 73.",
+    "output": "GCD(177, 73) = 1. Final answer: 1."
+  },
+  {
+    "input": "Solve for x: 6x^2 + (-9)x + (1) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [3/4 - sqrt(57)/12, sqrt(57)/12 + 3/4]. Final answer: [3/4 - sqrt(57)/12, sqrt(57)/12 + 3/4]."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (3)x + (-18) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3/8 + 3*sqrt(33)/8, -3*sqrt(33)/8 - 3/8]. Final answer: [-3/8 + 3*sqrt(33)/8, -3*sqrt(33)/8 - 3/8]."
+  },
+  {
+    "input": "Solve for x: 8x^2 + (-6)x + (4) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [3/8 - sqrt(23)*I/8, 3/8 + sqrt(23)*I/8]. Final answer: [3/8 - sqrt(23)*I/8, 3/8 + sqrt(23)*I/8]."
+  },
+  {
+    "input": "A circle has radius 5 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*5^2 = 25*pi. Circumference = 2*\u03c0*r = 2*\u03c0*5 = 10*pi. Final answer: Area = 25*pi, Circumference = 10*pi."
+  },
+  {
+    "input": "A box has 19 red, 20 blue, and 20 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 190/1711. Final answer: 0.1110."
+  },
+  {
+    "input": "Solve for x: 7x^2 + (-2)x + (-2) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [1/7 - sqrt(15)/7, 1/7 + sqrt(15)/7]. Final answer: [1/7 - sqrt(15)/7, 1/7 + sqrt(15)/7]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "A box has 8 red, 7 blue, and 15 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 7/145. Final answer: 0.0483."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (-7)x + (20) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [7/8 - sqrt(271)*I/8, 7/8 + sqrt(271)*I/8]. Final answer: [7/8 - sqrt(271)*I/8, 7/8 + sqrt(271)*I/8]."
+  },
+  {
+    "input": "A box has 20 red, 12 blue, and 13 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 1/15. Final answer: 0.0667."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 175 and 105.",
+    "output": "GCD(175, 105) = 35. Final answer: 35."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 114 and 153.",
+    "output": "GCD(114, 153) = 3. Final answer: 3."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Solve for x: 1x^2 + (0)x + (5) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-sqrt(5)*I, sqrt(5)*I]. Final answer: [-sqrt(5)*I, sqrt(5)*I]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "A circle has radius 14 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*14^2 = 196*pi. Circumference = 2*\u03c0*r = 2*\u03c0*14 = 28*pi. Final answer: Area = 196*pi, Circumference = 28*pi."
+  },
+  {
+    "input": "A box has 16 red, 5 blue, and 12 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/264. Final answer: 0.0189."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "A circle has radius 4 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*4^2 = 16*pi. Circumference = 2*\u03c0*r = 2*\u03c0*4 = 8*pi. Final answer: Area = 16*pi, Circumference = 8*pi."
+  },
+  {
+    "input": "A box has 6 red, 8 blue, and 20 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 28/561. Final answer: 0.0499."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (16)x + (-3) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-8/5 + sqrt(79)/5, -sqrt(79)/5 - 8/5]. Final answer: [-8/5 + sqrt(79)/5, -sqrt(79)/5 - 8/5]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Solve for x: 9x^2 + (13)x + (-8) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-13/18 + sqrt(457)/18, -sqrt(457)/18 - 13/18]. Final answer: [-13/18 + sqrt(457)/18, -sqrt(457)/18 - 13/18]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 141 and 77.",
+    "output": "GCD(141, 77) = 1. Final answer: 1."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^4 + 4*x.",
+    "output": "Derivative f'(x) = 4*x**3 + 4. Final answer: 4*x**3 + 4."
+  },
+  {
+    "input": "Solve for x: 5x^2 + (5)x + (-4) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-1/2 + sqrt(105)/10, -sqrt(105)/10 - 1/2]. Final answer: [-1/2 + sqrt(105)/10, -sqrt(105)/10 - 1/2]."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^3 + 3*x.",
+    "output": "Derivative f'(x) = 3*x**2 + 3. Final answer: 3*x**2 + 3."
+  },
+  {
+    "input": "A box has 17 red, 8 blue, and 15 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 7/195. Final answer: 0.0359."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A circle has radius 2 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*2^2 = 4*pi. Circumference = 2*\u03c0*r = 2*\u03c0*2 = 4*pi. Final answer: Area = 4*pi, Circumference = 4*pi."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "Solve for x: 8x^2 + (-9)x + (-20) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [9/16 - sqrt(721)/16, 9/16 + sqrt(721)/16]. Final answer: [9/16 - sqrt(721)/16, 9/16 + sqrt(721)/16]."
+  },
+  {
+    "input": "Solve for x: 3x^2 + (11)x + (10) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-2, -5/3]. Final answer: [-2, -5/3]."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "A circle has radius 12 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*12^2 = 144*pi. Circumference = 2*\u03c0*r = 2*\u03c0*12 = 24*pi. Final answer: Area = 144*pi, Circumference = 24*pi."
+  },
+  {
+    "input": "A box has 9 red, 5 blue, and 19 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 5/264. Final answer: 0.0189."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^6 + 6*x.",
+    "output": "Derivative f'(x) = 6*x**5 + 6. Final answer: 6*x**5 + 6."
+  },
+  {
+    "input": "A circle has radius 6 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*6^2 = 36*pi. Circumference = 2*\u03c0*r = 2*\u03c0*6 = 12*pi. Final answer: Area = 36*pi, Circumference = 12*pi."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (5)x + (16) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-5/8 - sqrt(231)*I/8, -5/8 + sqrt(231)*I/8]. Final answer: [-5/8 - sqrt(231)*I/8, -5/8 + sqrt(231)*I/8]."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 71 and 85.",
+    "output": "GCD(71, 85) = 1. Final answer: 1."
+  },
+  {
+    "input": "A circle has radius 9 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*9^2 = 81*pi. Circumference = 2*\u03c0*r = 2*\u03c0*9 = 18*pi. Final answer: Area = 81*pi, Circumference = 18*pi."
+  },
+  {
+    "input": "Solve for x: 8x^2 + (12)x + (-19) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-3/4 + sqrt(47)/4, -sqrt(47)/4 - 3/4]. Final answer: [-3/4 + sqrt(47)/4, -sqrt(47)/4 - 3/4]."
+  },
+  {
+    "input": "Solve for x: 4x^2 + (19)x + (-18) = 0.",
+    "output": "Step 1: Use quadratic formula x = [-b \u00b1 \u221a(b^2 - 4ac)] / 2a. Step 2: Substitute values: x = [-19/8 + sqrt(649)/8, -sqrt(649)/8 - 19/8]. Final answer: [-19/8 + sqrt(649)/8, -sqrt(649)/8 - 19/8]."
+  },
+  {
+    "input": "A circle has radius 10 cm. Find its area and circumference.",
+    "output": "Area = \u03c0*r^2 = \u03c0*10^2 = 100*pi. Circumference = 2*\u03c0*r = 2*\u03c0*10 = 20*pi. Final answer: Area = 100*pi, Circumference = 20*pi."
+  },
+  {
+    "input": "Find the greatest common divisor (GCD) of 164 and 109.",
+    "output": "GCD(164, 109) = 1. Final answer: 1."
+  },
+  {
+    "input": "A box has 16 red, 11 blue, and 13 green balls. Two balls are drawn without replacement. What is the probability both are blue?",
+    "output": "Probability = (blue/total) * ((blue-1)/(total-1)) = 11/156. Final answer: 0.0705."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  },
+  {
+    "input": "Find the derivative of f(x) = x^5 + 5*x.",
+    "output": "Derivative f'(x) = 5*x**4 + 5. Final answer: 5*x**4 + 5."
+  }
+]
